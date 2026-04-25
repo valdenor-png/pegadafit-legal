@@ -10,7 +10,7 @@ Se não concordar com algum ponto, **não use o Serviço**.
 
 ## 1. Quem somos
 
-O PegadaFit é operado por **Valdenor Neto**, pessoa física, CPF mantido em registro privado, com endereço na **Castanhal/PA, Brasil** ("nós", "PegadaFit").
+O PegadaFit é operado por **Valdenor Neto**, pessoa física, estabelecido em **Castanhal/PA, Brasil** ("nós", "PegadaFit").
 
 Contato: **dpo@pegadafit.com**
 
@@ -223,7 +223,7 @@ O PegadaFit é fornecido "no estado em que se encontra" e "conforme disponível"
 - Indisponibilidade temporária causada por falha de terceiros (servidores, internet, lojas de aplicativos, dispositivos do usuário).
 - Danos decorrentes de uso do app de forma contrária a estes Termos.
 
-Esta limitação **não exclui** direitos garantidos pelo Código de Defesa do Consumidor que sejam aplicáveis, conforme análise caso a caso.
+Esta limitação **não afeta** direitos imperativamente garantidos pelo Código de Defesa do Consumidor.
 
 ---
 
@@ -270,8 +270,8 @@ Fica eleito o **foro da Comarca de Castanhal/PA** pra dirimir controvérsias, **
 Dúvidas, sugestões ou questões legais sobre estes Termos:
 
 **E-mail:** dpo@pegadafit.com
-**Endereço:** Castanhal/PA, Brasil
+**Localidade:** Castanhal/PA, Brasil
 
 ---
 
-*Estes Termos foram adaptados de "Basecamp Terms of Service" por 37signals LLC, licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — disponível em https://github.com/basecamp/policies. Modificações significativas foram feitas por Valdenor Neto pra refletir operação no Brasil sob LGPD, Marco Civil, CDC e legislações brasileiras aplicáveis, bem como pra adequar ao modelo específico do PegadaFit (rede social fitness com vitrine de profissionais).*
+*Adaptado de "Basecamp Terms of Service" (37signals LLC), sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Modificado para PegadaFit.*

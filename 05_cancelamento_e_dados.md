@@ -11,11 +11,11 @@ Esta política descreve o que acontece com sua conta e seus dados quando você c
 Você pode encerrar sua conta a qualquer momento, sem perguntas, sem custo:
 
 1. Abra o app PegadaFit.
-2. Vá em **Perfil > Configurações > Conta**.
-3. Toque em **Excluir minha conta**.
-4. Confirme a senha e a ação.
+2. Vá em **Perfil > Configurações**.
+3. Na seção **Privacidade e Dados (LGPD)**, toque em **Apagar minha conta**.
+4. Confirme no diálogo de aviso.
 
-Pedidos de cancelamento por **e-mail são aceitos** mas exigem confirmação da titularidade (login + senha ou outras formas de verificação) — escreva pra **dpo@pegadafit.com** com o assunto "Cancelamento de conta".
+Pedidos de cancelamento por **e-mail são aceitos** mas exigem verificação prévia da titularidade da conta — escreva pra **dpo@pegadafit.com** com o assunto "Cancelamento de conta".
 
 ---
 
@@ -101,10 +101,9 @@ Se for **nós** que encerrarmos sua conta (por violação dos Termos ou da Polí
 
 Você tem direito de portabilidade (LGPD art. 18, V). Antes de excluir, recomendamos exportar:
 
-1. Vá em **Configurações > Privacidade > Exportar meus dados**.
-2. O sistema gera um arquivo **JSON** com seus dados pessoais (perfil, posts, mensagens, configurações).
-3. Você recebe o link de download por e-mail em até **48 horas**.
-4. O arquivo fica disponível por **7 dias** após geração.
+1. Vá em **Perfil > Configurações > Exportar meus dados**.
+2. O app gera um arquivo **JSON** com seus dados pessoais (perfil, posts, mensagens, configurações) e abre o menu de compartilhamento do sistema.
+3. Você pode salvar o arquivo no seu dispositivo, enviar pra você mesmo por e-mail ou outro app.
 
 A exportação **não inclui** dados que outros usuários publicaram (fotos em que você foi mencionado, mensagens enviadas a você que pertencem ao remetente, etc.) por questões de privacidade dos terceiros.
 
@@ -115,8 +114,8 @@ A exportação **não inclui** dados que outros usuários publicaram (fotos em q
 Dúvidas sobre cancelamento ou eliminação de dados:
 
 **E-mail:** dpo@pegadafit.com
-**Endereço:** Castanhal/PA, Brasil
+**Localidade:** Castanhal/PA, Brasil
 
 ---
 
-*Esta política foi adaptada da "Basecamp Cancellation Policy" por 37signals LLC, licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — disponível em https://github.com/basecamp/policies. Modificações foram feitas por Valdenor Neto pra adequar ao Marco Civil da Internet, à LGPD e ao fluxo específico do PegadaFit.*
+*Adaptado de "Basecamp Cancellation Policy" (37signals LLC), sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Modificado para PegadaFit.*

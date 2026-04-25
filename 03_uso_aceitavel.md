@@ -110,7 +110,7 @@ O Fit conecta você com outras pessoas que treinam na **mesma filial** e em **ho
 
 A Vitrine é um espaço onde personal trainers, nutricionistas e profissionais de saúde podem ser encontrados pelos usuários. As regras adicionais pra esse espaço:
 
-- **Profissionais** devem usar identidade real e **registro profissional válido** (CREF pra educador físico, CRN pra nutricionista, CRM pra médico, etc.). Cobramos esse registro no cadastro Vitrine PRO e podemos verificar a qualquer momento.
+- **Profissionais** devem usar identidade real e **registro profissional válido** (CREF pra educador físico, CRN pra nutricionista, CRM pra médico, etc.). Exigimos a declaração desse registro no cadastro Vitrine PRO e podemos verificar a qualquer momento.
 - **Não é permitido** prescrever treino, dieta ou intervenção de saúde sem o registro profissional adequado. Isso é exercício ilegal de profissão (Lei 9.696/98 pra educador físico, entre outras).
 - Avaliações de usuários sobre profissionais devem ser **verdadeiras e baseadas em experiência real**. Reviews falsas (positivas ou negativas) podem gerar processo por difamação.
 - O PegadaFit **não intermedia o pagamento** entre aluno e profissional. Combinações comerciais são feitas diretamente entre as partes — leia a [seção sobre Vitrine nos Termos de Uso](01_termos_de_uso.md).
@@ -181,4 +181,4 @@ Castanhal/PA, Brasil
 
 ---
 
-*Esta política foi adaptada de "Basecamp Use Restrictions Policy" por 37signals LLC, licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — disponível em https://github.com/basecamp/policies. Modificações foram feitas por Valdenor Neto pra refletir operação no Brasil sob LGPD, Marco Civil, ECA e legislações brasileiras aplicáveis.*
+*Adaptado de "Basecamp Use Restrictions Policy" (37signals LLC), sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Modificado para PegadaFit.*

@@ -114,8 +114,5 @@ O PegadaFit **não é canal de saúde mental**. Conversas no Salão ou DM não s
 Dúvidas sobre este Disclaimer:
 
 **E-mail:** dpo@pegadafit.com
-**Endereço:** Castanhal/PA, Brasil
+**Localidade:** Castanhal/PA, Brasil
 
----
-
-*Este documento é original do PegadaFit. Não há atribuição de template externo nesta seção, pois cobre risco específico de app fitness brasileiro não previsto nos templates open-source utilizados.*

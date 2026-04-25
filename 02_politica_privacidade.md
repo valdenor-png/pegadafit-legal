@@ -4,7 +4,7 @@
 
 A privacidade dos seus dados é prioridade pra nós. Esta Política descreve, em conformidade com a **Lei Geral de Proteção de Dados (Lei 13.709/2018 — LGPD)**, quais dados pessoais coletamos, por que coletamos, como tratamos, com quem compartilhamos e quais são seus direitos.
 
-**Não vendemos seus dados.** Nunca vendemos. Nunca vamos vender.
+**Não vendemos seus dados** — hoje nem no futuro.
 
 ---
 
@@ -121,7 +121,7 @@ Empresas que processam dados em nosso nome pra fazer o serviço funcionar. Cada 
 
 | Subprocessador | Serviço prestado | País / região | Site |
 |---|---|---|---|
-| **Supabase Inc.** | Banco de dados, storage de fotos, autenticação, realtime, edge functions | Estados Unidos / Europa (depende da região configurada) | supabase.com |
+| **Supabase Inc.** | Banco de dados, storage de fotos, autenticação, realtime, edge functions | Estados Unidos | supabase.com |
 | **Expo Inc.** | Notificações push (Expo Push Service) e atualizações OTA do app | Estados Unidos | expo.dev |
 | **Google LLC** (Firebase Cloud Messaging) | Entrega de notificações push em dispositivos Android | Estados Unidos | firebase.google.com |
 | **Apple Inc.** (APNs) | Entrega de notificações push em dispositivos iOS | Estados Unidos | apple.com |
@@ -220,9 +220,9 @@ Conforme art. 18 da LGPD, você pode, a qualquer momento, exercer os seguintes d
 
 ### Como exercer
 
-- **Acesso e exportação:** dentro do app, em **Configurações > Privacidade > Exportar meus dados**.
-- **Correção:** edite seu perfil em **Configurações > Editar perfil**.
-- **Eliminação completa da conta:** **Configurações > Excluir minha conta**.
+- **Acesso e exportação:** dentro do app, em **Perfil > Configurações > Exportar meus dados**.
+- **Correção:** edite seu perfil em **Perfil > Editar perfil**.
+- **Eliminação completa da conta:** **Perfil > Configurações > Apagar minha conta**.
 - **Outros direitos** (oposição, revisão, revogação, informações detalhadas): por e-mail pro DPO em **dpo@pegadafit.com**.
 
 Respondemos pedidos em até **15 dias**, conforme prazo razoável previsto pela ANPD. Se precisarmos de mais tempo, você é informado.
@@ -285,4 +285,4 @@ Autoridade Nacional de Proteção de Dados (ANPD)
 
 ---
 
-*Esta Política foi adaptada de "Basecamp Privacy Policy" por 37signals LLC, licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — disponível em https://github.com/basecamp/policies. Modificações significativas foram feitas por Valdenor Neto pra adequar o documento à Lei 13.709/2018 (LGPD), ao Marco Civil da Internet e à arquitetura técnica específica do PegadaFit.*
+*Adaptado de "Basecamp Privacy Policy" (37signals LLC), sob licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Modificado para PegadaFit.*
