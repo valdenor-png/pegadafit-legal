@@ -1,0 +1,7 @@
+title: PegadaFit — Documentos Legais
+description: Termos de Uso, Política de Privacidade (LGPD), Uso Aceitável, Disclaimer Médico, Cancelamento
+theme: jekyll-theme-cayman
+lang: pt-BR
+
+# Sem links de "navegação superior" do tema padrão — README serve de índice.
+show_downloads: false
