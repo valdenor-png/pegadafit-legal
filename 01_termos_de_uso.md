@@ -1,6 +1,7 @@
 # Termos de Uso — PegadaFit
 
-**Versão 1.0 — em vigor a partir de 25 de abril de 2026**
+**Versão 2.1 — em vigor a partir de 17 de maio de 2026**
+**Histórico:** v1.0 (25/04/2026), v2.0 (atualização interna), v2.1 (17/05/2026)
 
 Bem-vindo ao PegadaFit. Estes Termos de Uso ("Termos") regulam seu acesso e uso do aplicativo PegadaFit e dos serviços relacionados ("Serviço"). Ao criar uma conta ou usar o Serviço, você concorda com estes Termos.
 
@@ -39,6 +40,14 @@ O PegadaFit **não é uma rede de treino, plataforma de prescrição de exercíc
 - Você só pode ter **uma conta ativa por pessoa**.
 - Você não pode ter sido banido previamente do PegadaFit.
 
+**Pra prevenir contas falsas e múltiplas contas pela mesma pessoa, aplicamos as seguintes regras automáticas:**
+
+- **1 conta por aparelho a cada 30 dias.** Se você criou conta hoje, o mesmo aparelho não pode criar outra conta nos próximos 30 dias. Vale pra prevenir abuso.
+- **Email descartável bloqueado.** Endereços de provedores temporários (Mailinator, 10MinuteMail, GuerrillaMail, etc) não são aceitos. Use um email pessoal real.
+- **Email canônico.** Tratamos `joao@gmail.com` e `joao+qualquercoisa@gmail.com` como o **mesmo email** (Gmail/Googlemail ignoram aliases `+` e pontos).
+- **DDD válido obrigatório.** Telefones com DDD inexistente no Brasil são rejeitados.
+- **Telefone único.** O mesmo número não pode ser usado em duas contas.
+
 Se descobrirmos que você violou esses requisitos, sua conta será encerrada e seus dados eliminados conforme nossa [Política de Privacidade](02_politica_privacidade.md).
 
 ---
@@ -58,7 +67,7 @@ Se sua conta for comprometida, avise imediatamente em **dpo@pegadafit.com**.
 
 ## 5. Conteúdo que você publica
 
-Você é o **único responsável** pelo conteúdo que publica, envia ou compartilha através do PegadaFit (posts, stories, fotos, mensagens, comentários, prompts, etc.).
+Você é o **único responsável** pelo conteúdo que publica, envia ou compartilha através do PegadaFit (posts, stories, fotos, **vídeos**, mensagens, comentários, prompts, etc.).
 
 **Você mantém os direitos autorais** sobre seu conteúdo. Ao publicá-lo no PegadaFit, você nos concede uma **licença mundial, gratuita, não exclusiva e revogável** pra:
 
@@ -69,6 +78,23 @@ Você é o **único responsável** pelo conteúdo que publica, envia ou comparti
 Essa licença termina quando você apaga o conteúdo ou exclui sua conta — exceto pra cópias em backup que serão eliminadas conforme cronograma da Política de Privacidade.
 
 **Você garante** que tem direito sobre o conteúdo publicado e que ele não viola direitos de terceiros (autoria, imagem, privacidade) nem leis brasileiras.
+
+### 5.1 Limites técnicos de conteúdo
+
+- **Vídeos no Feed:** até **30 segundos** de duração e **25 MB** de tamanho. Vídeos maiores precisam ser editados antes do envio (apps tipo CapCut, InShot resolvem fácil).
+- **Fotos no Feed:** até **15 MB** por foto. Carrossel até 10 fotos por post.
+- **Áudio em DM/Salão:** até **5 minutos**.
+- **Stories:** até **15 segundos** (vídeo) ou foto única, expira em 24h.
+
+### 5.2 Moderação de conteúdo
+
+Posts, perfis, fotos, vídeos e mensagens podem ser **denunciados por outros usuários** ou **revisados pela nossa equipe de moderação**. Quando isso acontece:
+
+- Conteúdo que viola a [Política de Uso Aceitável](03_uso_aceitavel.md) é **removido**.
+- Sua conta pode ser **shadowbanned** (visível só pra você, oculta dos demais), **suspensa** (acesso bloqueado temporariamente) ou **banida permanentemente**, dependendo da gravidade.
+- Em casos graves (CSAM, ameaças, fraude), reportamos às autoridades competentes (PF, SaferNet).
+
+Você pode contestar uma ação enviando email pra **dpo@pegadafit.com** com motivo + identificador da conta.
 
 ---
 
@@ -104,6 +130,21 @@ Você concorda em **não usar o PegadaFit** pra:
 - Vender, transferir ou alugar sua conta.
 
 A violação dessas regras pode resultar em **aviso, restrição temporária, suspensão ou banimento permanente**, conforme a gravidade.
+
+---
+
+## 7-A. Fit (Match)
+
+O **Fit** é o sistema de conexão social do PegadaFit — funciona por "swipe" (você indica interesse em outra pessoa; se ela também indicar interesse em você, vira **match** e abre conversa privada).
+
+**Regras de participação:**
+
+- **Você precisa ter pelo menos 1 foto** no perfil pra participar do Fit.
+- **Só pode fitar pessoas que também têm foto** adicionada — perfis sem foto não aparecem na fila e não aceitam fit.
+- **Contas de academia, empresa ou time não participam do Fit.** São contas institucionais (informativas) — não swipa nem é swipada.
+- **Match exige idade ≥ 18 anos** dos dois lados (mesma idade mínima do app).
+
+Essas regras existem pra garantir que toda interação no Fit seja entre pessoas reais maiores de 18 que assumem identidade visual no app.
 
 ---
 
